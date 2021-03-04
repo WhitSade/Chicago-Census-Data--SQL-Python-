@@ -1,4 +1,4 @@
-# Chicago-Census-Data--SQL-Python-
+# Chicago Census Data - SQL (Python)
 
 # Introduction
 
